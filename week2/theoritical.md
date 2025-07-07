@@ -1,5 +1,5 @@
 
-Explain the difference between primitive types and reference types in JavaScript. 
+- Explain the difference between primitive types and reference types in JavaScript. 
 - **Primitive Types** in JavaScript are basic data types that store actual values directly. They are immutable and compared by value.  
   **Examples**: `string`, `number`, `boolean`, `null`, `undefined`, `symbol`, `bigint`.
 
@@ -7,8 +7,8 @@ Explain the difference between primitive types and reference types in JavaScript
   **Examples**: `object`, `array`, `function`.
 
 
-
-Compare the two methods of creating a new function in JavaScript: Function Declaration and Function Expression. Discuss the differences between them in terms of hoisting and provide examples for each.
+---
+- Compare the two methods of creating a new function in JavaScript: Function Declaration and Function Expression. Discuss the differences between them in terms of hoisting and provide examples for each.
 - **Function Declaration**:
   - Syntax: Uses the `function` keyword followed by a name.
   - **Hoisted**: Can be invoked before its definition in the code.
@@ -38,8 +38,8 @@ Compare the two methods of creating a new function in JavaScript: Function Decla
 
 
 
-
-Research the concept of "Pure Function" and then respond to the following: Under what conditions can a function be classified as a pure function?
+---
+- Research the concept of "Pure Function" and then respond to the following: Under what conditions can a function be classified as a pure function?
 - A **Pure Function** is a function that meets the following conditions:
 
   1. **Deterministic Output**: For the same input values, it always returns the same output.
@@ -59,8 +59,8 @@ Research the concept of "Pure Function" and then respond to the following: Under
 
 
 
-
-Write down the array methods that you have studied and classify them to destructive and not destructive.
+---
+- Write down the array methods that you have studied and classify them to destructive and not destructive.
 - **Destructive Array Methods (modify the original array)**:
   - `push()` – Adds elements to the end.
   - `pop()` – Removes the last element.
